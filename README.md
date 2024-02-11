@@ -1,0 +1,4 @@
+- 👋 Hola! Mi nombre es Lina Villero
+- 👀 Estoy interesada en todos lo que tenga que ver con Analitica de datos y procesamiento de la información.
+- 🌱 Actualmente estoy aprendiendo sobre GitHub y Python
+- 💞️ Me gustaria colaborar en proyectados con Python para afianzar mis conocimientos.
